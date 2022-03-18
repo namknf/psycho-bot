@@ -8,7 +8,7 @@
 
     internal class Program
     {
-        private static string Token { get; set; } = "5192872162:AAEQazYu7kAz0bgH2BksjSyIXYY1QBVuW7A";
+        private static string Token { get; set; } = ""; // secret information
         private static TelegramBotClient _bot;
 
         [Obsolete]
